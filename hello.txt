@@ -1,2 +1,1 @@
-This my 1st git commit from my phone 
-
+this is master project
